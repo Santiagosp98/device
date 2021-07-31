@@ -1,3 +1,8 @@
+"""
+This code is based in the one found in:
+https://draeger-it.blog/programmieren-mit-micropython-8-gas-sensor-mq-9-am-esp32-betreiben/
+"""
+
 from machine import ADC
 
 MAX_LOOPS = 100
